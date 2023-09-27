@@ -1,0 +1,301 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -2437954453210527100,
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BaseMap": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 6260728585998407913,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_BumpMap": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -7798324546802428215,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DetailAlbedoMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DetailNormalMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DiffuseTwo": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_EmissionMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_LayerMask": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 6260728585998407913,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MetallicGlossMap": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 2869301090551585951,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_NormalMapTwo": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_OcclusionMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ParallaxMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_SpecGlossMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlphaClip": 0.0,
+      "_Blend": 0.0,
+      "_BumpScale": 1.0,
+      "_Cull": 2.0,
+      "_Cutoff": 0.5,
+      "_DetailAlbedoAlphaUsage": 0.0,
+      "_DetailAlbedoMapScale": 1.0,
+      "_DetailNormalMapScale": 1.0,
+      "_DiffuseTwoAlphaUsage": 0.0,
+      "_DiffuseTwoScale": 1.0,
+      "_Dither": 0.0,
+      "_DitherAlpha": 1.0,
+      "_DstBlend": 0.0,
+      "_EmissionIntensityForDetail": 0.0,
+      "_EnvironmentReflections": 1.0,
+      "_GlossMapScale": 0.0,
+      "_Glossiness": 0.0,
+      "_GlossyReflections": 0.0,
+      "_Metallic": 1.0,
+      "_NormalMapTwoScale": 1.0,
+      "_OcclusionStrength": 1.0,
+      "_Parallax": 0.005,
+      "_QueueOffset": 0.0,
+      "_ReceiveDecals": 0.0,
+      "_ReceiveShadows": 1.0,
+      "_ShadowBiasDepthScale": 1.0,
+      "_ShadowBiasNormalScale": 1.0,
+      "_Smoothness": 1.0,
+      "_SmoothnessTextureChannel": 0.0,
+      "_SpecularHighlights": 1.0,
+      "_SrcBlend": 1.0,
+      "_Stencil": 8.0,
+      "_Surface": 0.0,
+      "_UVDetail": 0.0,
+      "_UVDiffuse2": 0.0,
+      "_Wind": 0.0,
+      "_WorkflowMode": 1.0,
+      "_ZWrite": 1.0
+    },
+    "m_Colors": {
+      "_BaseColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EmissionColor": {
+        "r": 0.9716981,
+        "g": 0.7654414,
+        "b": 0.7654414,
+        "a": 1.0
+      },
+      "_EmissionColorForDetail": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SpecColor": {
+        "r": 0.19999996,
+        "g": 0.19999996,
+        "b": 0.19999996,
+        "a": 1.0
+      },
+      "_WindParam1": {
+        "r": 1.57,
+        "g": 0.0,
+        "b": -1.0,
+        "a": 1.4
+      },
+      "_WindParam2": {
+        "r": 3.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_WindParam3": {
+        "r": 4.0,
+        "g": 0.03,
+        "b": 0.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_StringTagMap": {
+    "RenderType": "Opaque"
+  },
+  "m_Name": "Device_Vehicle_Car_04_01"
+}

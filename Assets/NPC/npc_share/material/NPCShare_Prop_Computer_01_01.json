@@ -1,0 +1,478 @@
+{
+  "m_Shader": {
+    "m_FileID": 5,
+    "m_PathID": 7583331780897894698,
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_BaseMap": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 5910038757973802612,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_BumpMap": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 9042632553542653291,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_CRTPattern": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DisplayImage": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_Lightmap0": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_Lightmap1": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_Lightmap2": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MaskTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 9204317446697364976,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MatCapBaseMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MatCapScreenMaskTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MatCapTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ReflectionCube": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ScreenBaseMap": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -7904397082949139633,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ScreenBumpMap": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -8805651476761946381,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ScreenMap": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_ScreenMaskTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -2322694533555633263,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_TVNoiseTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_BrightnessByScript": 1.0,
+      "_Columns": 12.0,
+      "_CornerIntensity": 10.0,
+      "_CustomLightmaps": 0.0,
+      "_DitherAlpha": 1.0,
+      "_Emission": 0.0,
+      "_FTBFactor": 0.4,
+      "_FTBInvert": 0.0,
+      "_FTBOffset": 11.0,
+      "_FadeToBlack": 0.0,
+      "_ForceWrapRepeat": 0.0,
+      "_Frame00": 0.0,
+      "_Frame01": 0.0,
+      "_Frame02": 0.0,
+      "_Frame10": 0.0,
+      "_Frame11": 0.0,
+      "_Frame12": 0.0,
+      "_Frame20": 0.0,
+      "_Frame21": 0.0,
+      "_Frame22": 0.0,
+      "_IgnoreTimeScale": 0.0,
+      "_LeftBottom": 0.0,
+      "_LeftMiddle": 0.0,
+      "_LeftTop": 0.0,
+      "_MatCap": 0.0,
+      "_MatCapAlphaBurst": 1.0,
+      "_MatCapBlendMode": 0.0,
+      "_MatCapColorBurst": 1.0,
+      "_MatCapUSpeed": 0.0,
+      "_MatCapVSpeed": 0.0,
+      "_Metallic": 1.0,
+      "_MiddleBottom": 0.0,
+      "_MiddleMiddle": 0.0,
+      "_MiddleTop": 0.0,
+      "_MultipleDisplay": 0.0,
+      "_MultipleDisplayOpacity": 1.0,
+      "_NeighborIntensity": 10.0,
+      "_OldCRT": 0.0,
+      "_OldCRTFade": 0.5,
+      "_OldCRTOpaquenessFadeBaseOpacity": 0.5,
+      "_OldCRTPixelsInY": 72.0,
+      "_OtherIntensity": 10.0,
+      "_PerfectDots": 0.0,
+      "_PixelAspect": 1.0,
+      "_RandomNoise": 1.0,
+      "_ReceiveShadows": 1.0,
+      "_ReflectionCubeRotation": 0.0,
+      "_RightBottom": 0.0,
+      "_RightMiddle": 0.0,
+      "_RightTop": 0.0,
+      "_Rows": 5.0,
+      "_SCC_Hue": 0.0,
+      "_SCC_Saturation": 0.0,
+      "_SCC_Value": 0.0,
+      "_ScanlineBrightness": 1.0,
+      "_ScreenAspect": 1.6667,
+      "_ScreenBrightnessMinByScript": 0.05,
+      "_ScreenMetallic": 1.0,
+      "_ScreenSmoothness": 1.0,
+      "_SelfIntensity": 10.0,
+      "_ShadowAffectsScreen": 0.0,
+      "_Smoothness": 1.0,
+      "_TVNoise": 0.0,
+      "_UseCustomReflectionCube": 0.0,
+      "_VideoId00": 0.0,
+      "_VideoId01": 0.0,
+      "_VideoId02": 0.0,
+      "_VideoId10": 0.0,
+      "_VideoId11": 0.0,
+      "_VideoId12": 0.0,
+      "_VideoId20": 0.0,
+      "_VideoId21": 0.0,
+      "_VideoId22": 0.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Color00": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Color01": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Color02": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Color10": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Color11": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Color12": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Color20": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Color21": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Color22": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_CustomScreenMap_ST": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_DisplayCenter": {
+        "r": 1.4507715,
+        "g": 1.2781225,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_EmissionColor": {
+        "r": 1.7411011,
+        "g": 1.7411011,
+        "b": 1.7411011,
+        "a": 1.0
+      },
+      "_MatCapColorTint": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_OldCRTOpaquenessFadeDistance": {
+        "r": 2.0,
+        "g": 6.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_OldCRTPixelsFadeDistance": {
+        "r": 2.0,
+        "g": 5.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_OldCRTPixelsInY": {
+        "r": 56.0,
+        "g": 227.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_RollSpeed": {
+        "r": 25.0,
+        "g": 25.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_ScreenBaseColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_ScreenColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_TVNoiseColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_TVSize": {
+        "r": 2.901543,
+        "g": 2.556245,
+        "b": 0.0,
+        "a": 0.0
+      }
+    }
+  },
+  "m_StringTagMap": {},
+  "m_Name": "NPCShare_Prop_Computer_01_01"
+}

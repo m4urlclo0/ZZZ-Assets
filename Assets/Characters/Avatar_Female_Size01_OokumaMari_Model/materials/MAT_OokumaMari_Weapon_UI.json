@@ -1,0 +1,372 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -1264760374214708068,
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_LightTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -8059055505834761558,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 8217796347880393239,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MatCapTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -807226201400800218,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_OtherDataTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": -33583809214107950,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlbedoSmoothness": 0.1,
+      "_AlphaClip": 0.0,
+      "_BumpScale": 1.0,
+      "_ClipSpaceXOffset": 0.0,
+      "_ClipSpaceYOffset": 0.0,
+      "_Cull": 2.0,
+      "_Cutoff": 0.5,
+      "_Dither": 0.0,
+      "_DitherAlpha": 1.0,
+      "_DoubleSided": 0.0,
+      "_Emission": 0.0,
+      "_Glossiness": 1.0,
+      "_HighlightShape": 0.0,
+      "_HighlightShape2": 0.0,
+      "_HighlightShape3": 0.0,
+      "_HighlightShape4": 0.0,
+      "_HighlightShape5": 0.0,
+      "_IgnoreTimeScale": 0.0,
+      "_MatCap": 1.0,
+      "_MatCapAlphaBurst": 0.3,
+      "_MatCapBlendMode": 2.0,
+      "_MatCapColorBurst": 0.3,
+      "_MatCapUSpeed": 0.0,
+      "_MatCapVSpeed": 0.0,
+      "_MaterialNum": 2.0,
+      "_MaxOutlineZOffset": 0.01,
+      "_Metallic": 1.0,
+      "_ModelSize": 2.0,
+      "_ModelSize2": 5.0,
+      "_ModelSize3": 2.0,
+      "_ModelSize4": 5.0,
+      "_ModelSize5": 5.0,
+      "_Outline": 1.0,
+      "_OutlineWidth": 1.0,
+      "_OutlineWidthUIAdjustment": 1.0,
+      "_ReceiveShadows": 1.0,
+      "_ShapeFresnelOffset": 1.0,
+      "_ShapeFresnelOffset2": 1.0,
+      "_ShapeFresnelOffset3": 1.0,
+      "_ShapeFresnelOffset4": 1.0,
+      "_ShapeFresnelOffset5": 1.0,
+      "_ShapeFresnelScale": 0.9,
+      "_ShapeFresnelScale2": 0.9,
+      "_ShapeFresnelScale3": 0.9,
+      "_ShapeFresnelScale4": 0.9,
+      "_ShapeFresnelScale5": 0.9,
+      "_ShapeSoftness": 0.1,
+      "_ShapeSoftness2": 0.1,
+      "_ShapeSoftness3": 0.1,
+      "_ShapeSoftness4": 0.1,
+      "_ShapeSoftness5": 0.1,
+      "_SpecIntensity": 0.1,
+      "_Stencil": 0.0,
+      "_StencilComp": 8.0,
+      "_StencilOp": 0.0,
+      "_StencilReadMask": 1.0,
+      "_StencilWriteMask": 255.0,
+      "_SymmetryUV": 0.0,
+      "_TabSelection": 2.0,
+      "_ToonSpecular": 0.2,
+      "_ToonSpecular2": 0.08,
+      "_ToonSpecular3": 0.05,
+      "_ToonSpecular4": 0.12,
+      "_ToonSpecular5": 0.005,
+      "_UseMatCapMask": 1.0,
+      "_ZWrite": 1.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EmissionColor": {
+        "r": 0.7490196,
+        "g": 0.7490196,
+        "b": 0.7490196,
+        "a": 1.0
+      },
+      "_EmissionColor2": {
+        "r": 32.0,
+        "g": 32.0,
+        "b": 32.0,
+        "a": 1.0
+      },
+      "_EmissionColor3": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EmissionColor4": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_EmissionColor5": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MatCapColorTint": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MiddlePointPosition": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_OutlineColor": {
+        "r": 0.13207549,
+        "g": 0.13207549,
+        "b": 0.11650055,
+        "a": 1.0
+      },
+      "_OutlineColor2": {
+        "r": 0.2264151,
+        "g": 0.2264151,
+        "b": 0.2264151,
+        "a": 1.0
+      },
+      "_OutlineColor3": {
+        "r": 0.3584906,
+        "g": 0.10720315,
+        "b": 0.07271271,
+        "a": 1.0
+      },
+      "_OutlineColor4": {
+        "r": 0.08290319,
+        "g": 0.08290319,
+        "b": 0.084905684,
+        "a": 1.0
+      },
+      "_OutlineColor5": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_RimGlowLightColor": {
+        "r": 0.24750002,
+        "g": 0.3,
+        "b": 0.3,
+        "a": 1.0
+      },
+      "_RimGlowLightColor2": {
+        "r": 0.5754717,
+        "g": 0.5564703,
+        "b": 0.5564703,
+        "a": 1.0
+      },
+      "_RimGlowLightColor3": {
+        "r": 0.65837497,
+        "g": 0.50888145,
+        "b": 0.40197787,
+        "a": 1.0
+      },
+      "_RimGlowLightColor4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_RimGlowLightColor5": {
+        "r": 0.1792453,
+        "g": 0.1792453,
+        "b": 0.1792453,
+        "a": 1.0
+      },
+      "_RimGlowShadowColor": {
+        "r": 0.26666668,
+        "g": 0.3,
+        "b": 0.3,
+        "a": 1.0
+      },
+      "_RimGlowShadowColor2": {
+        "r": 0.4716981,
+        "g": 0.46057314,
+        "b": 0.46057314,
+        "a": 1.0
+      },
+      "_RimGlowShadowColor3": {
+        "r": 0.7156938,
+        "g": 0.597202,
+        "b": 0.822786,
+        "a": 1.0
+      },
+      "_RimGlowShadowColor4": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_RimGlowShadowColor5": {
+        "r": 0.4245283,
+        "g": 0.4245283,
+        "b": 0.4245283,
+        "a": 1.0
+      },
+      "_ShadowColor": {
+        "r": 0.59333336,
+        "g": 0.6082913,
+        "b": 0.69803923,
+        "a": 1.0
+      },
+      "_ShadowColor2": {
+        "r": 0.57254905,
+        "g": 0.58222544,
+        "b": 0.7490196,
+        "a": 1.0
+      },
+      "_ShadowColor3": {
+        "r": 0.64113504,
+        "g": 0.6156863,
+        "b": 0.69803923,
+        "a": 1.0
+      },
+      "_ShadowColor4": {
+        "r": 0.64113504,
+        "g": 0.6156863,
+        "b": 0.69803923,
+        "a": 1.0
+      },
+      "_ShadowColor5": {
+        "r": 0.49558946,
+        "g": 0.45882353,
+        "b": 0.69803923,
+        "a": 1.0
+      },
+      "_ShallowColor": {
+        "r": 0.80315727,
+        "g": 0.7921569,
+        "b": 0.9019608,
+        "a": 1.0
+      },
+      "_ShallowColor2": {
+        "r": 0.8740553,
+        "g": 0.8627451,
+        "b": 0.9019608,
+        "a": 1.0
+      },
+      "_ShallowColor3": {
+        "r": 0.8841501,
+        "g": 0.8666667,
+        "b": 0.9019608,
+        "a": 1.0
+      },
+      "_ShallowColor4": {
+        "r": 0.8841501,
+        "g": 0.8666667,
+        "b": 0.9019608,
+        "a": 1.0
+      },
+      "_ShallowColor5": {
+        "r": 0.8090982,
+        "g": 0.79829997,
+        "b": 0.9,
+        "a": 1.0
+      },
+      "_SpecularColor": {
+        "r": 0.8232467,
+        "g": 0.9433962,
+        "b": 0.9054543,
+        "a": 1.0
+      },
+      "_SpecularColor2": {
+        "r": 0.8537736,
+        "g": 0.9508148,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SpecularColor3": {
+        "r": 0.759434,
+        "g": 0.84112364,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_SpecularColor4": {
+        "r": 0.8232467,
+        "g": 0.9433962,
+        "b": 0.9054543,
+        "a": 1.0
+      },
+      "_SpecularColor5": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_StringTagMap": {},
+  "m_Name": "MAT_OokumaMari_Weapon_UI"
+}

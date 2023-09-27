@@ -1,0 +1,122 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 2497034685900247571,
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_LightTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 3815720053104663926,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": -4414274785868668708,
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlbedoSmoothness": 0.1,
+      "_ClipSpaceXOffset": 0.0,
+      "_ClipSpaceYOffset": 0.0,
+      "_Dither": 0.0,
+      "_DitherAlpha": 1.0,
+      "_IgnoreTimeScale": 0.0,
+      "_MaterialNum": 0.0,
+      "_MaxOutlineZOffset": 0.01,
+      "_Outline": 1.0,
+      "_OutlineWidth": 1.0,
+      "_OutlineWidthUIAdjustment": 1.0,
+      "_ReceiveShadows": 1.0,
+      "_Stencil": 0.0,
+      "_StencilComp": 8.0,
+      "_StencilOp": 0.0,
+      "_StencilReadMask": 255.0,
+      "_StencilWriteMask": 255.0,
+      "_TabSelection": 0.0,
+      "_UseFaceShadowPoint": 1.0,
+      "_ZWrite": 1.0
+    },
+    "m_Colors": {
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_FaceShadowPoint": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MiddlePointPosition": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_OutlineColor": {
+        "r": 0.5176471,
+        "g": 0.31764707,
+        "b": 0.32156864,
+        "a": 1.0
+      },
+      "_OutlineColor2": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_ShadowColor": {
+        "r": 0.9716981,
+        "g": 0.7287736,
+        "b": 0.7323993,
+        "a": 1.0
+      },
+      "_ShadowColor2": {
+        "r": 0.6,
+        "g": 0.6,
+        "b": 0.6,
+        "a": 1.0
+      },
+      "_ShallowColor": {
+        "r": 1.0,
+        "g": 0.9009434,
+        "b": 0.90625006,
+        "a": 1.0
+      },
+      "_ShallowColor2": {
+        "r": 0.8,
+        "g": 0.8,
+        "b": 0.8,
+        "a": 1.0
+      }
+    }
+  },
+  "m_StringTagMap": {},
+  "m_Name": "MAT_Longinus_Face_UI"
+}
