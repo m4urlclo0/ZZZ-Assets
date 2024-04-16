@@ -1,0 +1,2835 @@
+{
+  "m_Shader": {
+    "m_FileID": 4,
+    "m_PathID": 3888839570379262989,
+    "Name": "miHoYo/Character/NapAvatarStandard",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": [
+      {
+        "Key": "_BlockMaskTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_ChannelMixTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_LightTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 6,
+            "m_PathID": -1201187355301931355,
+            "Name": "ZhuYuan_Body_Map2_N",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_MainTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 2,
+            "m_PathID": -728028603263950740,
+            "Name": "ZhuYuan_Body_Map2_D",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_MatCap2DArray",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_MatCapBumpMapFx",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_MatCapTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 5,
+            "m_PathID": -807226201400800218,
+            "Name": "Eff_MatCap_019",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_MatCapTex2",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_MatCapTex3",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_MatCapTex4",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_MatCapTex5",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_MatCapTexFallback",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_MatCapTexFx",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_OtherDataTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 3,
+            "m_PathID": -5188075048752682525,
+            "Name": "ZhuYuan_Body_Map2_M",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_OtherDataTex2",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 1,
+            "m_PathID": -2035248751606798536,
+            "Name": "ZhuYuan_Body_Map2_A",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_OverrideOutlineTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_OverrideRimGlowTexFX",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_ScreenMask",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_ScreenTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_SecondaryEmissionMaskTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_SecondaryEmissionMaskTexForCGLighting",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_SecondaryEmissionTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_SecondaryEmissionTexForCGLighting",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_StretchMask",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 0,
+            "m_PathID": 0,
+            "Name": "",
+            "IsNull": true
+          },
+          "m_Scale": {
+            "X": 1.0,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      },
+      {
+        "Key": "_TransitionTex",
+        "Value": {
+          "m_Texture": {
+            "m_FileID": 7,
+            "m_PathID": 2230620677053235226,
+            "Name": "Eff_Noise_002",
+            "IsNull": false
+          },
+          "m_Scale": {
+            "X": 0.01,
+            "Y": 1.0
+          },
+          "m_Offset": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      }
+    ],
+    "m_Ints": null,
+    "m_Floats": [
+      {
+        "Key": "_AbnormalProperty",
+        "Value": 0.0
+      },
+      {
+        "Key": "_AdditionalLightIntensity",
+        "Value": 1.0
+      },
+      {
+        "Key": "_AlbedoSmoothness",
+        "Value": 0.1
+      },
+      {
+        "Key": "_AlphaClip",
+        "Value": 0.0
+      },
+      {
+        "Key": "_AmbientColorScale",
+        "Value": 1.0
+      },
+      {
+        "Key": "_BShift",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Blink",
+        "Value": 0.0
+      },
+      {
+        "Key": "_BlinkFrequency",
+        "Value": 1.0
+      },
+      {
+        "Key": "_BrightMultiplier",
+        "Value": 1.0
+      },
+      {
+        "Key": "_BrightMultiplier2",
+        "Value": 1.0
+      },
+      {
+        "Key": "_BrightMultiplier3",
+        "Value": 1.0
+      },
+      {
+        "Key": "_BrightMultiplier4",
+        "Value": 1.0
+      },
+      {
+        "Key": "_BrightMultiplier5",
+        "Value": 1.0
+      },
+      {
+        "Key": "_BumpScale",
+        "Value": 1.0
+      },
+      {
+        "Key": "_CameraToLightRadian",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ChannelMixerUsingUV4",
+        "Value": 0.0
+      },
+      {
+        "Key": "_CharacterStencil",
+        "Value": 128.0
+      },
+      {
+        "Key": "_ClipPlane",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ColorBlocks",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Cull",
+        "Value": 2.0
+      },
+      {
+        "Key": "_Cutoff",
+        "Value": 0.5
+      },
+      {
+        "Key": "_DarkAOScale",
+        "Value": 0.5
+      },
+      {
+        "Key": "_DiffuseFade",
+        "Value": 1.0
+      },
+      {
+        "Key": "_DiffuseFade2",
+        "Value": 1.0
+      },
+      {
+        "Key": "_DiffuseFade3",
+        "Value": 1.0
+      },
+      {
+        "Key": "_DiffuseFade4",
+        "Value": 1.0
+      },
+      {
+        "Key": "_DiffuseFade5",
+        "Value": 1.0
+      },
+      {
+        "Key": "_Dither",
+        "Value": 0.0
+      },
+      {
+        "Key": "_DitherAlpha",
+        "Value": 1.0
+      },
+      {
+        "Key": "_DitherAlpha2",
+        "Value": 1.0
+      },
+      {
+        "Key": "_DoubleSided",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Emission",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Frame",
+        "Value": 0.0
+      },
+      {
+        "Key": "_FresnelFlashing",
+        "Value": 4.0
+      },
+      {
+        "Key": "_FresnelMaskWidth",
+        "Value": 5.0
+      },
+      {
+        "Key": "_FresnelWidth",
+        "Value": 3.5
+      },
+      {
+        "Key": "_GShift",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Glitch",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Glossiness",
+        "Value": 1.0
+      },
+      {
+        "Key": "_HairMatId",
+        "Value": 5.0
+      },
+      {
+        "Key": "_HairMatId2",
+        "Value": 5.0
+      },
+      {
+        "Key": "_HardLight",
+        "Value": 0.0
+      },
+      {
+        "Key": "_HardLightWidth",
+        "Value": 0.1
+      },
+      {
+        "Key": "_HighlightShape",
+        "Value": 1.0
+      },
+      {
+        "Key": "_HighlightShape2",
+        "Value": 0.0
+      },
+      {
+        "Key": "_HighlightShape3",
+        "Value": 0.0
+      },
+      {
+        "Key": "_HighlightShape4",
+        "Value": 0.0
+      },
+      {
+        "Key": "_HighlightShape5",
+        "Value": 0.0
+      },
+      {
+        "Key": "_IgnoreTimeScale",
+        "Value": 0.0
+      },
+      {
+        "Key": "_LastFrame",
+        "Value": 0.0
+      },
+      {
+        "Key": "_LerpPosition",
+        "Value": 0.5
+      },
+      {
+        "Key": "_LerpPositionForCGLighting",
+        "Value": 0.5
+      },
+      {
+        "Key": "_LightDirectionFromCamera",
+        "Value": 0.0
+      },
+      {
+        "Key": "_LightSource",
+        "Value": 0.0
+      },
+      {
+        "Key": "_LightSourceForCGLighting",
+        "Value": 0.0
+      },
+      {
+        "Key": "_LineBrightness",
+        "Value": 1.0
+      },
+      {
+        "Key": "_LineGlitch",
+        "Value": 0.0
+      },
+      {
+        "Key": "_LineThresholdMax",
+        "Value": 0.2
+      },
+      {
+        "Key": "_LineThresholdMin",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MarkAsGlitchMask",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MaskTexFactor",
+        "Value": 1.0
+      },
+      {
+        "Key": "_MatCap",
+        "Value": 1.0
+      },
+      {
+        "Key": "_MatCapAlphaBurst",
+        "Value": 0.5
+      },
+      {
+        "Key": "_MatCapAlphaBurst2",
+        "Value": 1.0
+      },
+      {
+        "Key": "_MatCapAlphaBurst3",
+        "Value": 1.0
+      },
+      {
+        "Key": "_MatCapAlphaBurst4",
+        "Value": 1.0
+      },
+      {
+        "Key": "_MatCapAlphaBurst5",
+        "Value": 1.0
+      },
+      {
+        "Key": "_MatCapAlphaBurstFallback",
+        "Value": 1.0
+      },
+      {
+        "Key": "_MatCapAlphaBurstFx",
+        "Value": 1.0
+      },
+      {
+        "Key": "_MatCapBlendMode",
+        "Value": 2.0
+      },
+      {
+        "Key": "_MatCapBlendMode2",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapBlendMode3",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapBlendMode4",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapBlendMode5",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapBlendModeFallback",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapBlendModeFx",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapBumpScaleFx",
+        "Value": 1.0
+      },
+      {
+        "Key": "_MatCapColorBurst",
+        "Value": 0.5
+      },
+      {
+        "Key": "_MatCapColorBurst2",
+        "Value": 1.0
+      },
+      {
+        "Key": "_MatCapColorBurst3",
+        "Value": 1.0
+      },
+      {
+        "Key": "_MatCapColorBurst4",
+        "Value": 1.0
+      },
+      {
+        "Key": "_MatCapColorBurst5",
+        "Value": 1.0
+      },
+      {
+        "Key": "_MatCapColorBurstFallback",
+        "Value": 1.0
+      },
+      {
+        "Key": "_MatCapColorBurstFx",
+        "Value": 1.0
+      },
+      {
+        "Key": "_MatCapFX",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapId",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapNormalUSpeedFx",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapNormalVSpeedFx",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapRefract",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapRefract2",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapRefract3",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapRefract4",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapRefract5",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapRefractFallback",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapTexID",
+        "Value": 100.0
+      },
+      {
+        "Key": "_MatCapTexID2",
+        "Value": 100.0
+      },
+      {
+        "Key": "_MatCapTexID3",
+        "Value": 100.0
+      },
+      {
+        "Key": "_MatCapTexID4",
+        "Value": 100.0
+      },
+      {
+        "Key": "_MatCapTexID5",
+        "Value": 100.0
+      },
+      {
+        "Key": "_MatCapUSpeed",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapUSpeed2",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapUSpeed3",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapUSpeed4",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapUSpeed5",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapUSpeedFallback",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapUSpeedFx",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapVSpeed",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapVSpeed2",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapVSpeed3",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapVSpeed4",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapVSpeed5",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapVSpeedFallback",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MatCapVSpeedFx",
+        "Value": 0.0
+      },
+      {
+        "Key": "_MaterialNum",
+        "Value": 4.0
+      },
+      {
+        "Key": "_MaxOutlineZOffset",
+        "Value": 0.01
+      },
+      {
+        "Key": "_Metallic",
+        "Value": 1.0
+      },
+      {
+        "Key": "_ModelSize",
+        "Value": 1.0
+      },
+      {
+        "Key": "_ModelSize2",
+        "Value": 1.0
+      },
+      {
+        "Key": "_ModelSize3",
+        "Value": 1.0
+      },
+      {
+        "Key": "_ModelSize4",
+        "Value": 1.0
+      },
+      {
+        "Key": "_ModelSize5",
+        "Value": 1.0
+      },
+      {
+        "Key": "_MultiplyAlbedo",
+        "Value": 1.0
+      },
+      {
+        "Key": "_MultiplyAlbedoForCGLighting",
+        "Value": 1.0
+      },
+      {
+        "Key": "_MultiplySrcColor",
+        "Value": 0.0
+      },
+      {
+        "Key": "_NoiseScale",
+        "Value": 1.0
+      },
+      {
+        "Key": "_NormalThreshold",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Outline",
+        "Value": 1.0
+      },
+      {
+        "Key": "_OutlineFX",
+        "Value": 0.0
+      },
+      {
+        "Key": "_OutlineWidth",
+        "Value": 1.0
+      },
+      {
+        "Key": "_OutlineWidthFX",
+        "Value": 1.0
+      },
+      {
+        "Key": "_OverlayTexScale",
+        "Value": 50.0
+      },
+      {
+        "Key": "_Override",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Override2Tone",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Override2ToneBlendMode",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Override2ToneBlendModeForCGLighting",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Override2ToneForCGLighting",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Override2ToneMultiplyAlbedo",
+        "Value": 0.0
+      },
+      {
+        "Key": "_Override2ToneMultiplyAlbedoForCGLighting",
+        "Value": 0.0
+      },
+      {
+        "Key": "_OverrideMainLightParam",
+        "Value": 0.0
+      },
+      {
+        "Key": "_OverrideMainLightParam2",
+        "Value": 0.0
+      },
+      {
+        "Key": "_OverrideMainLightParam3",
+        "Value": 0.0
+      },
+      {
+        "Key": "_OverrideMainLightParam4",
+        "Value": 0.0
+      },
+      {
+        "Key": "_OverrideMainLightParam5",
+        "Value": 0.0
+      },
+      {
+        "Key": "_OverrideOutline",
+        "Value": 0.0
+      },
+      {
+        "Key": "_OverrideOutlineUseUV2",
+        "Value": 1.0
+      },
+      {
+        "Key": "_OverrideRimGlow",
+        "Value": 0.0
+      },
+      {
+        "Key": "_OverrideRimGlowMode",
+        "Value": 0.0
+      },
+      {
+        "Key": "_OverrideRimGlowUseUV2",
+        "Value": 0.0
+      },
+      {
+        "Key": "_PerObjectShadowData",
+        "Value": 0.0
+      },
+      {
+        "Key": "_PointSpace",
+        "Value": 0.0
+      },
+      {
+        "Key": "_PointSpaceForCGLighting",
+        "Value": 0.0
+      },
+      {
+        "Key": "_PowMax",
+        "Value": 1.5
+      },
+      {
+        "Key": "_PowMin",
+        "Value": 1.25
+      },
+      {
+        "Key": "_PropertyMask2Channel",
+        "Value": 0.0
+      },
+      {
+        "Key": "_PropertyMask2UseUV2",
+        "Value": 0.0
+      },
+      {
+        "Key": "_PropertyMaskChannel",
+        "Value": 0.0
+      },
+      {
+        "Key": "_PropertyMaskUVFlipSpeed",
+        "Value": 50.0
+      },
+      {
+        "Key": "_PropertyMaskUseUV2",
+        "Value": 0.0
+      },
+      {
+        "Key": "_PropertyNormalUseUV2",
+        "Value": 0.0
+      },
+      {
+        "Key": "_PropertyTexUVFlipSpeed",
+        "Value": 25.0
+      },
+      {
+        "Key": "_PropertyTexUseUV2",
+        "Value": 0.0
+      },
+      {
+        "Key": "_PropertyType",
+        "Value": 0.0
+      },
+      {
+        "Key": "_RShift",
+        "Value": 0.0
+      },
+      {
+        "Key": "_RampSource",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ReceiveShadows",
+        "Value": 1.0
+      },
+      {
+        "Key": "_RefractDepth",
+        "Value": 0.5
+      },
+      {
+        "Key": "_RefractDepth2",
+        "Value": 0.5
+      },
+      {
+        "Key": "_RefractDepth3",
+        "Value": 0.5
+      },
+      {
+        "Key": "_RefractDepth4",
+        "Value": 0.5
+      },
+      {
+        "Key": "_RefractDepth5",
+        "Value": 0.5
+      },
+      {
+        "Key": "_RefractDepthFallback",
+        "Value": 0.5
+      },
+      {
+        "Key": "_RefractInt",
+        "Value": 0.6
+      },
+      {
+        "Key": "_RefractUOffset",
+        "Value": 0.0
+      },
+      {
+        "Key": "_RefractUWrap",
+        "Value": 10.0
+      },
+      {
+        "Key": "_RefractVOffset",
+        "Value": 0.0
+      },
+      {
+        "Key": "_RefractVWrap",
+        "Value": 10.0
+      },
+      {
+        "Key": "_RigidAnimation",
+        "Value": 0.0
+      },
+      {
+        "Key": "_RimGlow",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ScreenImage",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ScreenMaskUV",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ScreenScale",
+        "Value": 1.0
+      },
+      {
+        "Key": "_ScreenTexRotation",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SecondaryEmission",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SecondaryEmissionChannel",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SecondaryEmissionChannelForCGLighting",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SecondaryEmissionForCGLighting",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SecondaryEmissionMaskChannel",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SecondaryEmissionMaskChannelForCGLighting",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SecondaryEmissionTexRotation",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SecondaryEmissionTexRotationForCGLighting",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SecondaryEmissionUseUV2",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SecondaryEmissionUseUV2ForCGLighting",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ShadowColorFadeByZ",
+        "Value": 1.0
+      },
+      {
+        "Key": "_ShadowCull",
+        "Value": 2.0
+      },
+      {
+        "Key": "_ShadowDitherOff",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ShadowNormalBias",
+        "Value": 0.01
+      },
+      {
+        "Key": "_ShadowZOffset",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ShadowZOffsetWholeMesh",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ShadowmapSmoothness",
+        "Value": 0.5
+      },
+      {
+        "Key": "_ShapeFresnelOffset",
+        "Value": 1.0
+      },
+      {
+        "Key": "_ShapeFresnelOffset2",
+        "Value": 1.0
+      },
+      {
+        "Key": "_ShapeFresnelOffset3",
+        "Value": 1.0
+      },
+      {
+        "Key": "_ShapeFresnelOffset4",
+        "Value": 1.0
+      },
+      {
+        "Key": "_ShapeFresnelOffset5",
+        "Value": 1.0
+      },
+      {
+        "Key": "_ShapeFresnelScale",
+        "Value": 0.9
+      },
+      {
+        "Key": "_ShapeFresnelScale2",
+        "Value": 0.9
+      },
+      {
+        "Key": "_ShapeFresnelScale3",
+        "Value": 0.9
+      },
+      {
+        "Key": "_ShapeFresnelScale4",
+        "Value": 0.9
+      },
+      {
+        "Key": "_ShapeFresnelScale5",
+        "Value": 0.9
+      },
+      {
+        "Key": "_ShapeSoftness",
+        "Value": 0.1
+      },
+      {
+        "Key": "_ShapeSoftness2",
+        "Value": 0.1
+      },
+      {
+        "Key": "_ShapeSoftness3",
+        "Value": 0.1
+      },
+      {
+        "Key": "_ShapeSoftness4",
+        "Value": 0.1
+      },
+      {
+        "Key": "_ShapeSoftness5",
+        "Value": 0.1
+      },
+      {
+        "Key": "_ShiftAngle",
+        "Value": 120.0
+      },
+      {
+        "Key": "_ShiftAngleForCGLighting",
+        "Value": 120.0
+      },
+      {
+        "Key": "_SkinMatId",
+        "Value": 1.0
+      },
+      {
+        "Key": "_SoftLight",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SoftLightWidth",
+        "Value": 0.1
+      },
+      {
+        "Key": "_Softness",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SoftnessForCGLighting",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SpecIntensity",
+        "Value": 0.15
+      },
+      {
+        "Key": "_SpecSocketBoneIndex",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SpecSocketGPUAnimInstanceID",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SpecSocketTotalNumberOfBones",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SssWidth",
+        "Value": 0.1
+      },
+      {
+        "Key": "_SssWidth2",
+        "Value": 0.1
+      },
+      {
+        "Key": "_SssWidth3",
+        "Value": 0.1
+      },
+      {
+        "Key": "_SssWidth4",
+        "Value": 0.1
+      },
+      {
+        "Key": "_SssWidth5",
+        "Value": 0.1
+      },
+      {
+        "Key": "_StencilComFunc",
+        "Value": 0.0
+      },
+      {
+        "Key": "_StencilReadMask",
+        "Value": 1.0
+      },
+      {
+        "Key": "_StretchDirection",
+        "Value": 0.0
+      },
+      {
+        "Key": "_StretchDistance",
+        "Value": 0.0
+      },
+      {
+        "Key": "_StretchPercentage",
+        "Value": 0.0
+      },
+      {
+        "Key": "_SymmetryUV",
+        "Value": 0.0
+      },
+      {
+        "Key": "_TabSelection",
+        "Value": 3.0
+      },
+      {
+        "Key": "_ToonSpecular",
+        "Value": 0.01
+      },
+      {
+        "Key": "_ToonSpecular2",
+        "Value": 0.01
+      },
+      {
+        "Key": "_ToonSpecular3",
+        "Value": 0.01
+      },
+      {
+        "Key": "_ToonSpecular4",
+        "Value": 0.01
+      },
+      {
+        "Key": "_ToonSpecular5",
+        "Value": 0.01
+      },
+      {
+        "Key": "_TransSpeed",
+        "Value": 1.0
+      },
+      {
+        "Key": "_Transition",
+        "Value": 0.0
+      },
+      {
+        "Key": "_TransitionCompletion",
+        "Value": 0.0
+      },
+      {
+        "Key": "_TransitionWidth",
+        "Value": 0.1
+      },
+      {
+        "Key": "_UseChannelMixer",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UseInvSecondaryEmissionMask",
+        "Value": 0.0
+      },
+      {
+        "Key": "_UseMatCapMask",
+        "Value": 1.0
+      },
+      {
+        "Key": "_UseOverlayTex",
+        "Value": 1.0
+      },
+      {
+        "Key": "_UseShadowFadeMask",
+        "Value": 1.0
+      },
+      {
+        "Key": "_VertexOffset",
+        "Value": 0.5
+      },
+      {
+        "Key": "_VertexStretch",
+        "Value": 0.0
+      },
+      {
+        "Key": "_VolumeLutScale",
+        "Value": 1.0
+      },
+      {
+        "Key": "_WrapMode",
+        "Value": 0.0
+      },
+      {
+        "Key": "_ZTest",
+        "Value": 3.0
+      },
+      {
+        "Key": "_ZTestPreZ",
+        "Value": 4.0
+      },
+      {
+        "Key": "_ZWrite",
+        "Value": 1.0
+      },
+      {
+        "Key": "_ZWritePreZ",
+        "Value": 1.0
+      }
+    ],
+    "m_Colors": [
+      {
+        "Key": "_AChannelColor",
+        "Value": {
+          "r": 1.0,
+          "g": 0.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_AChannelColorPrecomputed",
+        "Value": {
+          "r": 1.0,
+          "g": 0.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_AOParameters",
+        "Value": {
+          "r": 1.25,
+          "g": 1.5,
+          "b": 1.0,
+          "a": 0.5
+        }
+      },
+      {
+        "Key": "_AmbientColorCG",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_BChannelColor",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_BChannelColorPrecomputed",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_BlinkOpacity",
+        "Value": {
+          "r": 0.0,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_BlockColorA",
+        "Value": {
+          "r": 1.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_BlockColorB",
+        "Value": {
+          "r": 0.5,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_BlockColorC",
+        "Value": {
+          "r": 0.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_BlockColorD",
+        "Value": {
+          "r": 0.5,
+          "g": 0.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_BlockMoveSpeed",
+        "Value": {
+          "r": 66.0,
+          "g": 88.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_BoundaryMax",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_BoundaryMin",
+        "Value": {
+          "r": -1.0,
+          "g": -1.0,
+          "b": -1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_CharacterMainLightData",
+        "Value": {
+          "r": -1.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_CharacterMainLightData1",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_Color",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ColorA",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ColorAForCGLighting",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ColorB",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ColorBForCGLighting",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ColorOverrideAlbedo",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_DetailColor",
+        "Value": {
+          "r": 0.384,
+          "g": 0.565,
+          "b": 1.498,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_EmissionColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_EmissionColor2",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_EmissionColor3",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_EmissionColor4",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_EmissionColor5",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_FresnelColor",
+        "Value": {
+          "r": 0.0,
+          "g": 0.2,
+          "b": 1.625,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_FrontColor",
+        "Value": {
+          "r": 0.8,
+          "g": 0.8,
+          "b": 0.8,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_FrontColor2",
+        "Value": {
+          "r": 0.8,
+          "g": 0.8,
+          "b": 0.8,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_FrontColor3",
+        "Value": {
+          "r": 0.8,
+          "g": 0.8,
+          "b": 0.8,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_FrontColor4",
+        "Value": {
+          "r": 0.8,
+          "g": 0.8,
+          "b": 0.8,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_FrontColor5",
+        "Value": {
+          "r": 0.8,
+          "g": 0.8,
+          "b": 0.8,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_GChannelColor",
+        "Value": {
+          "r": 0.0,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_GChannelColorPrecomputed",
+        "Value": {
+          "r": 0.0,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_HardLightColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_HeadMatrixWS2OS0",
+        "Value": {
+          "r": 1.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_HeadMatrixWS2OS1",
+        "Value": {
+          "r": 0.0,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_HeadMatrixWS2OS2",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 1.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_HeadMatrixWS2OS3",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_LayerIDColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_LocalIndirectColor",
+        "Value": {
+          "r": 1.0,
+          "g": 0.3,
+          "b": 0.2,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_LocalIndirectColor2",
+        "Value": {
+          "r": 1.0,
+          "g": 0.3,
+          "b": 0.2,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_LocalIndirectColor3",
+        "Value": {
+          "r": 1.0,
+          "g": 0.3,
+          "b": 0.2,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_LocalIndirectColor4",
+        "Value": {
+          "r": 1.0,
+          "g": 0.3,
+          "b": 0.2,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_LocalIndirectColor5",
+        "Value": {
+          "r": 1.0,
+          "g": 0.3,
+          "b": 0.2,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_MaskRChannelUVSpeed",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_MatCapColorTint",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_MatCapColorTint2",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_MatCapColorTint3",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_MatCapColorTint4",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_MatCapColorTint5",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_MatCapColorTintFallback",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_MatCapColorTintFx",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_MiddlePointPosition",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_OutlineColor",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OutlineColor2",
+        "Value": {
+          "r": 0.5471698,
+          "g": 0.20223878,
+          "b": 0.090334624,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OutlineColor3",
+        "Value": {
+          "r": 0.21960786,
+          "g": 0.23137257,
+          "b": 0.25490198,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OutlineColor4",
+        "Value": {
+          "r": 0.1792453,
+          "g": 0.17154188,
+          "b": 0.14457993,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OutlineColor5",
+        "Value": {
+          "r": 0.254717,
+          "g": 0.23815584,
+          "b": 0.23429157,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OutlineColorFX",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OverrideColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OverrideMainLightColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OverrideMainLightColor2",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OverrideMainLightColor3",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OverrideMainLightColor4",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OverrideMainLightColor5",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OverrideOutlineColor",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_OverrideOutlineSpeed",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_OverrideRimGlowColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_OverrideRimGlowSpeed",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_PointPosition",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_PointPositionForCGLighting",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_PropertyColor",
+        "Value": {
+          "r": 2.635,
+          "g": 3.388,
+          "b": 23.968,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_PropertyMask2UVSpeed",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_PropertyMaskUVSpeed",
+        "Value": {
+          "r": 8.0,
+          "g": 2.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_PropertyNormalUVSpeed",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_PropertyTexUVSpeed",
+        "Value": {
+          "r": 3.0,
+          "g": 3.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_RChannelColor",
+        "Value": {
+          "r": 1.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_RChannelColorPrecomputed",
+        "Value": {
+          "r": 1.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_RampTexParams0",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_RampTexParams1",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_RefractParam",
+        "Value": {
+          "r": 5.0,
+          "g": 5.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_RefractParam2",
+        "Value": {
+          "r": 5.0,
+          "g": 5.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_RefractParam3",
+        "Value": {
+          "r": 5.0,
+          "g": 5.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_RefractParam4",
+        "Value": {
+          "r": 5.0,
+          "g": 5.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_RefractParam5",
+        "Value": {
+          "r": 5.0,
+          "g": 5.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_RefractParamFallback",
+        "Value": {
+          "r": 5.0,
+          "g": 5.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_RimGlowColor",
+        "Value": {
+          "r": 0.5,
+          "g": 0.5,
+          "b": 0.5,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_RimGlowLightColor",
+        "Value": {
+          "r": 0.55,
+          "g": 0.55,
+          "b": 0.55,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_RimGlowLightColor2",
+        "Value": {
+          "r": 0.55,
+          "g": 0.55,
+          "b": 0.55,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_RimGlowLightColor3",
+        "Value": {
+          "r": 0.55,
+          "g": 0.55,
+          "b": 0.55,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_RimGlowLightColor4",
+        "Value": {
+          "r": 0.55,
+          "g": 0.55,
+          "b": 0.55,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_RimGlowLightColor5",
+        "Value": {
+          "r": 0.55,
+          "g": 0.55,
+          "b": 0.55,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_RimGlowShadowColor",
+        "Value": {
+          "r": 0.5,
+          "g": 0.5,
+          "b": 0.5,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_RimGlowShadowColor2",
+        "Value": {
+          "r": 0.5,
+          "g": 0.5,
+          "b": 0.5,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_RimGlowShadowColor3",
+        "Value": {
+          "r": 0.5,
+          "g": 0.5,
+          "b": 0.5,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_RimGlowShadowColor4",
+        "Value": {
+          "r": 0.5,
+          "g": 0.5,
+          "b": 0.5,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_RimGlowShadowColor5",
+        "Value": {
+          "r": 0.5,
+          "g": 0.5,
+          "b": 0.5,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ScreenColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ScreenImageUvMove",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_ScreenTexRotationAxis",
+        "Value": {
+          "r": 0.5,
+          "g": 0.5,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_SecondaryEmissionColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_SecondaryEmissionColorForCGLighting",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_SecondaryEmissionTexSpeed",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_ShadowColor",
+        "Value": {
+          "r": 0.602,
+          "g": 0.56132436,
+          "b": 0.5450541,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ShadowColor2",
+        "Value": {
+          "r": 0.87843144,
+          "g": 0.8000001,
+          "b": 0.8000001,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ShadowColor3",
+        "Value": {
+          "r": 0.72,
+          "g": 0.69894737,
+          "b": 0.8,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ShadowColor4",
+        "Value": {
+          "r": 0.8,
+          "g": 0.77120423,
+          "b": 0.7152,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ShadowColor5",
+        "Value": {
+          "r": 0.7432,
+          "g": 0.7482486,
+          "b": 0.8,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ShadowFadeColor",
+        "Value": {
+          "r": 0.70845777,
+          "g": 0.67661685,
+          "b": 0.8,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ShadowFadeColor2",
+        "Value": {
+          "r": 0.8784314,
+          "g": 0.8,
+          "b": 0.8,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ShadowFadeColor3",
+        "Value": {
+          "r": 0.72,
+          "g": 0.69894737,
+          "b": 0.8,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ShadowFadeColor4",
+        "Value": {
+          "r": 0.7216495,
+          "g": 0.6804124,
+          "b": 0.8,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ShadowFadeColor5",
+        "Value": {
+          "r": 0.8,
+          "g": 0.6659459,
+          "b": 0.652973,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ShallowColor",
+        "Value": {
+          "r": 0.6702797,
+          "g": 0.6454545,
+          "b": 0.71,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ShallowColor2",
+        "Value": {
+          "r": 0.9215687,
+          "g": 0.8862746,
+          "b": 0.8862746,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ShallowColor3",
+        "Value": {
+          "r": 0.83137256,
+          "g": 0.8314383,
+          "b": 0.9019608,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ShallowColor4",
+        "Value": {
+          "r": 0.9019608,
+          "g": 0.88932854,
+          "b": 0.8,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ShallowColor5",
+        "Value": {
+          "r": 0.8442353,
+          "g": 0.8913778,
+          "b": 0.9019608,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ShallowFadeColor",
+        "Value": {
+          "r": 0.8537383,
+          "g": 0.82009345,
+          "b": 0.9,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ShallowFadeColor2",
+        "Value": {
+          "r": 0.92156863,
+          "g": 0.8862745,
+          "b": 0.8862745,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ShallowFadeColor3",
+        "Value": {
+          "r": 0.84246576,
+          "g": 0.83013695,
+          "b": 0.9,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ShallowFadeColor4",
+        "Value": {
+          "r": 0.82714283,
+          "g": 0.80142856,
+          "b": 0.9,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_ShallowFadeColor5",
+        "Value": {
+          "r": 0.9,
+          "g": 0.80526316,
+          "b": 0.78803825,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_SoftLightColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_SpecSocketBindPoseMat0",
+        "Value": {
+          "r": 1.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_SpecSocketBindPoseMat1",
+        "Value": {
+          "r": 0.0,
+          "g": 1.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_SpecSocketBindPoseMat2",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 1.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_SpecSocketBindPoseMat3",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_SpecSocketPosOffset",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_SpecularColor",
+        "Value": {
+          "r": 0.30980393,
+          "g": 0.59607846,
+          "b": 0.7490196,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_SpecularColor2",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_SpecularColor3",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_SpecularColor4",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_SpecularColor5",
+        "Value": {
+          "r": 0.851,
+          "g": 0.94585985,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_SssColor",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_SssColor2",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_SssColor3",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_SssColor4",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_SssColor5",
+        "Value": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_StretchToPoint",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "Key": "_StretchVector",
+        "Value": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "Key": "_TransitionColor",
+        "Value": {
+          "r": 6.498019,
+          "g": 1.2741214,
+          "b": 1.2741214,
+          "a": 1.0
+        }
+      }
+    ]
+  },
+  "m_Name": "MAT_ZhuYuan_Body_2",
+  "Name": "MAT_ZhuYuan_Body_2"
+}
